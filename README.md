@@ -1,2 +1,2 @@
 core java project.
-ONline Quiz Application
+Online Quiz Application
